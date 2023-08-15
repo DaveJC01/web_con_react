@@ -1,0 +1,35 @@
+.titulo{
+    font-size: 40px;
+}
+.lab{
+    gap: 0;
+    display: flex;
+    
+}
+
+
+.Formulario {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.usuario {
+    width: 250px;
+    height: 25px;
+    border: transparent;
+    border-radius: 12px;
+}
+
+.contraseña {
+    width: 250px;
+    height: 25px;
+    border: transparent;
+    border-radius: 12px;
+}
+
+.btn_registro{
+    margin: 15px;
+}
